@@ -7,3 +7,6 @@ def printDaPoop(daPoop):
 def awesome(bool awesome):
     if(False):
         print(7)
+
+def whatWouldYouDoooooooForAKlondikeBar(whatIWouldDoForAKlondikeBar):
+    print("I" + "would" + whatIWouldDoForAKlondikeBar + ".")
