@@ -10,3 +10,8 @@ def awesome(bool awesome):
 
 def whatWouldYouDoooooooForAKlondikeBar(whatIWouldDoForAKlondikeBar):
     print("I" + "would" + whatIWouldDoForAKlondikeBar + ".")
+
+def MainMenu():
+    while (True):
+        if (input("What is your quest?: ") == 1):
+            print("Correct")
