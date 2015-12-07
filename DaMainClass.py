@@ -1,5 +1,5 @@
 print("Oh Boy am I getting the munchies")
-printDaPoop()
+printDaPoop("this is a string")
 
 def printDaPoop(daPoop):
     print(daPoop)
